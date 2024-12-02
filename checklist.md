@@ -49,10 +49,9 @@
 - [ ] Lost City of Keth -> Kabala Clan Relic -> Queen Kabala Boss **(+2 weapon passives)**
 - [ ] Lost City of Keth -> Lower Temple District -> The Ninth Treasure of Keth Boss
 - [ ] Lower Temple District -> Keth Sanctum -> The Forsaken Son Boss -> water goddess lit on fire
-- [ ] Town -> Desert Map Valley of Titans -> Valley of Titans -> Activate 3 titan seals -> Enter Grotto
-- [ ] (???) Valley of Titans -> Unknown Sidequest **(?)**
-- [ ] Valley of Titan -> Grotto -> The Colossus Boss
+- [ ] Town -> Desert Map Valley of Titans -> Valley of Titans -> Activate 3 titan seals -> Grotto -> Colossus Boss
 - [ ] Town -> Talk to Zarkha -> Asala -> Desert Map -> Mastodon Badlands
+- [ ] (???) Valley of Titans -> Unknown Sidequest **(?)**
 - [ ] Mastodon Badlands -> Bone Pits -> Ekbab + Blackrib Boss
 - [ ] Town -> Zarkha -> Use Horn at the front of the caravan
     - (???) Desert Map -> go back to valley of titans -> Find & Insert Relics
